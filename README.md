@@ -9,7 +9,7 @@ Powertools
 Handtools
 - Low-angle jack plane ([Dick Low Angle nr 62, right-handed](https://www.teygeler.nl/product/dick-original-low-angle-jack-plane-nr-62-703420/))
 - #4 bench plane ([Dick #4](https://www.teygeler.nl/?product=dick-original-blokschaaf-nr-4-703331))
-- Low angle block plane ([Dick] (https://www.teygeler.nl/product/dick-original-lagehoek-12-blokschaaf-703334/))
+- Low angle block plane ([Dick](https://www.teygeler.nl/product/dick-original-lagehoek-12-blokschaaf-703334/))
 Also available as box set
 - [3-piece plane set](https://www.teygeler.nl/product/dick-original-schavenset-3-delig-rechtshandig-gebruik-703427/)
 
