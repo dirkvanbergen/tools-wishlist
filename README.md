@@ -17,4 +17,4 @@ Also available as box set
 Saws
 - Coping saw ([Knew Concepts](https://www.teygeler.nl/product/knew-concepts-figuurzaag-125-mm-712551/))
 - Crosscut saw ([Veritas carcass saw](https://www.teygeler.nl/product/veritas-kapzaag-voor-zwaluwstaart-verbindingen-712920/))
-- Japanese Dozuki saw ([Japanese Dozuki saw](https://www.teygeler.nl/product/japanse-dozuki-universal-240-afkorten-schulpen-diagonaal-712808/))
+- Japanese Dozuki saw ([Japanese Dozuki saw](https://www.teygeler.nl/product/japanse-dozuki-universal-extra-fine-240-afkorten-schulpen-712994/))
