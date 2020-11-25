@@ -21,6 +21,8 @@ Saws
 Accessoires
 - Engineer squares ([Amazon](https://www.amazon.nl/Faithfull-Ingenieure-Geodriehoekset-4-delig-10/dp/B0006J39B2/ref=asc_df_B0006J39B2/) or [other shop](https://www.toolspecialist.nl/engineers-squares-set-4-piece-50-75-100-150mm-faithfull-ss-a-2-3-4-6))
 - Marking knife ([this one](https://www.toolspecialist.nl/marking-knife-175mm-faithfull) looks pretty)
+- Honing guide (Any will do. Like [this](https://www.toolspecialist.nl/honing-guide-faithfull))
+- Diamond Stones (Coarse - <500 grit) / Fine - 500-1000 grit / Extra Fine - > 1000 grit) (a whole list [here](https://www.toolspecialist.nl/hand-tools/sharpening-tools/diamond-whetstones/diamond-whetstones?manufacturer=86))
 
 
 *Dream Machines* for when I get good
