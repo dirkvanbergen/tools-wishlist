@@ -2,7 +2,6 @@
 Wishlist of all the tools that I want for woodworking!
 
 Powertools
-- A Table saw ([This Bosch](https://www.toolnation.nl/gts-635-216-professional-tafelzaag-216mm-1600w-0601b42000-5-jaar-dealer-garantie.html) is nice and compact. Our Ryobi tools are fine, [This table saw](https://www.toolnation.nl/ryobi-rts1800-g-zaagtafel-1800-watt.html) is probably good too!)
 - A Router ([Makita](https://www.toolnation.nl/makita-rt0700cx3j-boven-kantenfrees-in-m-box-4-jaar-dealer-garantie.html) has a reasonable one)
 
 Planes
