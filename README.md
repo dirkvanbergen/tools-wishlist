@@ -1,9 +1,6 @@
 # tools-wishlist
 Wishlist of all the tools that I want for woodworking!
 
-Powertools
-- A Router ([Makita](https://www.toolnation.nl/makita-rt0700cx3j-boven-kantenfrees-in-m-box-4-jaar-dealer-garantie.html) has a reasonable one)
-
 Planes
 - Low-angle jack plane ([Dick Low Angle nr 62, right-handed](https://www.teygeler.nl/product/dick-original-low-angle-jack-plane-nr-62-703420/))
 - #4 bench plane ([Dick #4](https://www.teygeler.nl/?product=dick-original-blokschaaf-nr-4-703331))
